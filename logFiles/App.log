@@ -1,0 +1,87 @@
+11-09-2021 11:28:20,INFO,Loading Pickle File For The Heating & Cooling Load
+11-09-2021 11:28:22,INFO,Loading Pickle File For The Heating & Cooling Load
+11-09-2021 11:28:41,INFO,The Home Page Is Displayed
+11-09-2021 11:30:39,INFO,Request Method : POST
+11-09-2021 11:31:07,INFO,Request Method : POST
+11-09-2021 11:33:10,INFO,Loading Pickle File For The Heating & Cooling Load
+11-09-2021 11:33:12,INFO,Loading Pickle File For The Heating & Cooling Load
+11-09-2021 11:33:20,INFO,The Home Page Is Displayed
+11-09-2021 11:34:14,INFO,Request Method : POST
+11-09-2021 11:34:29,INFO,Request Method : POST
+11-09-2021 11:36:43,INFO,Loading Pickle File For The Heating & Cooling Load
+11-09-2021 11:36:46,INFO,Loading Pickle File For The Heating & Cooling Load
+11-09-2021 11:36:51,INFO,The Home Page Is Displayed
+11-09-2021 11:38:06,INFO,Request Method : POST
+11-09-2021 11:38:06,INFO,All The Feature Is Selected By Value
+11-09-2021 11:38:06,INFO,Applying Min-Max Scaler For The Heating Load
+11-09-2021 11:38:06,INFO,Applying The PCA On Scaling User Data
+11-09-2021 11:38:18,INFO,Request Method : POST
+11-09-2021 11:38:18,INFO,All The Feature Is Selected By Value
+11-09-2021 11:38:18,INFO,Applying Min-Max Scaler For The Heating Load
+11-09-2021 11:38:18,INFO,Applying The PCA On Scaling User Data
+11-09-2021 11:38:53,INFO,Request Method : POST
+11-09-2021 11:38:53,INFO,All The Feature Is Selected By Value
+11-09-2021 11:38:53,INFO,Applying Min-Max Scaler For The Heating Load
+11-09-2021 11:38:53,INFO,Applying The PCA On Scaling User Data
+11-09-2021 11:39:50,INFO,Loading Pickle File For The Heating & Cooling Load
+11-09-2021 11:39:53,INFO,Loading Pickle File For The Heating & Cooling Load
+11-09-2021 11:40:00,INFO,The Home Page Is Displayed
+11-09-2021 11:40:57,INFO,Request Method : POST
+11-09-2021 11:40:57,INFO,All The Feature Is Selected By Value
+11-09-2021 11:40:57,INFO,Applying Min-Max Scaler For The Heating Load
+11-09-2021 11:40:57,INFO,Applying The PCA On Scaling User Data
+11-09-2021 11:42:26,INFO,Loading Pickle File For The Heating & Cooling Load
+11-09-2021 11:42:29,INFO,Loading Pickle File For The Heating & Cooling Load
+11-09-2021 11:42:32,INFO,The Home Page Is Displayed
+11-09-2021 11:43:12,INFO,Request Method : POST
+11-09-2021 11:43:12,INFO,All The Feature Is Selected By Value
+11-09-2021 11:43:12,INFO,Applying Min-Max Scaler For The Heating Load
+11-09-2021 11:43:12,INFO,Applying The PCA On Scaling User Data
+11-09-2021 11:51:34,INFO,Loading Pickle File For The Heating & Cooling Load
+11-09-2021 11:53:16,INFO,Loading Pickle File For The Heating & Cooling Load
+11-09-2021 11:55:48,INFO,Loading Pickle File For The Heating & Cooling Load
+11-09-2021 11:58:46,INFO,Loading Pickle File For The Heating & Cooling Load
+11-09-2021 11:58:48,INFO,Loading Pickle File For The Heating & Cooling Load
+11-09-2021 11:58:51,INFO,The Home Page Is Displayed
+11-09-2021 12:00:38,INFO,Request Method : POST
+11-09-2021 12:00:38,INFO,All The Feature Is Selected By Value
+11-09-2021 12:00:38,INFO,Applying Min-Max Scaler For The Heating Load
+11-09-2021 12:01:26,INFO,Loading Pickle File For The Heating & Cooling Load
+11-09-2021 12:01:30,INFO,Loading Pickle File For The Heating & Cooling Load
+11-09-2021 12:02:13,INFO,The Home Page Is Displayed
+11-09-2021 12:03:20,INFO,Request Method : POST
+11-09-2021 12:03:20,INFO,All The Feature Is Selected By Value
+11-09-2021 12:03:20,INFO,Applying Min-Max Scaler For The Heating Load
+11-09-2021 12:03:20,INFO,Applying The PCA On Scaling User Data
+11-09-2021 12:04:59,INFO,Loading Pickle File For The Heating & Cooling Load
+11-09-2021 12:05:02,INFO,Loading Pickle File For The Heating & Cooling Load
+11-09-2021 12:05:06,INFO,The Home Page Is Displayed
+11-09-2021 12:05:47,INFO,Request Method : POST
+11-09-2021 12:05:47,INFO,All The Feature Is Selected By Value
+11-09-2021 12:05:47,INFO,Applying Min-Max Scaler For The Heating Load
+11-09-2021 12:05:47,INFO,Applying The PCA On Scaling User Data
+11-09-2021 12:07:36,INFO,Loading Pickle File For The Heating & Cooling Load
+11-09-2021 12:20:42,INFO,Loading Pickle File For The Heating & Cooling Load
+11-09-2021 12:20:45,INFO,Loading Pickle File For The Heating & Cooling Load
+11-09-2021 12:21:21,INFO,The Home Page Is Displayed
+11-09-2021 12:21:25,INFO,Loading Pickle File For The Heating & Cooling Load
+11-09-2021 12:22:17,INFO,Request Method : POST
+11-09-2021 12:22:17,INFO,All The Feature Is Selected By Value
+11-09-2021 12:22:17,INFO,Applying Min-Max Scaler For The Heating Load
+11-09-2021 12:22:17,INFO,Applying The PCA On Scaling User Data
+11-09-2021 12:22:17,INFO,Predicting The Final Outputs
+11-09-2021 13:31:16,INFO,Loading Pickle File For The Heating & Cooling Load
+11-09-2021 13:31:20,INFO,Pickle File Load For Heating, Cooling & PCA Model
+11-09-2021 13:31:23,INFO,Loading Pickle File For The Heating & Cooling Load
+11-09-2021 13:31:23,INFO,Pickle File Load For Heating, Cooling & PCA Model
+11-09-2021 13:31:28,INFO,The Home Page Is Displayed
+11-09-2021 13:32:18,INFO,Request Method : POST
+11-09-2021 13:32:18,INFO,All The Feature Is Selected By Value
+11-09-2021 13:32:18,INFO,Applying Min-Max Scaler For The Heating Load
+11-09-2021 13:32:18,INFO,Applying The PCA On Scaling User Data
+11-09-2021 13:32:18,INFO,Predicting The Final Outputs
+11-09-2021 13:33:29,INFO,Request Method : POST
+11-09-2021 13:33:29,INFO,All The Feature Is Selected By Value
+11-09-2021 13:33:29,INFO,Applying Min-Max Scaler For The Heating Load
+11-09-2021 13:33:29,INFO,Applying The PCA On Scaling User Data
+11-09-2021 13:33:29,INFO,Predicting The Final Outputs
