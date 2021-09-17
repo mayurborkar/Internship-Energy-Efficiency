@@ -49,7 +49,9 @@ The Energy Efficiency Final Model Run in Local Enviornment
 ![Screenshot (84)](https://user-images.githubusercontent.com/62636740/132971890-bb9064cd-dded-4a95-ab77-8027438404a2.png)
 
 ## Deployment Link
+
 AWS Link : http://energyefficiency-env.eba-wrypfzra.us-east-2.elasticbeanstalk.com/
+
 AWS Link For Data Report : http://energyefficiency-env.eba-wrypfzra.us-east-2.elasticbeanstalk.com/report
 
 ## File Structure
