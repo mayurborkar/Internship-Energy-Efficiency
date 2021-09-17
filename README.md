@@ -37,7 +37,7 @@ Buildings energy consumption is put away around 40% of total energy use. Predict
 
 4. Model Selection I    :  Tested all base models to check the base accuracy.
                        
-5. Model Selection II   :  Performed Hyperparameter tuning using gridsearchCV and randomizedSearchCV.
+5. Model Selection II   :  Performed Hyperparameter tuning using gridsearchCV.
 
 6. Pickle File          :  Selected model as per best accuracy and created pickle file using joblib .
 
